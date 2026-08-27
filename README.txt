@@ -1,4 +1,13 @@
 ================================================================================
+                              DESCARGA RAPIDA
+================================================================================
+
+🐧 En Linux: curl -fsSL https://raw.githubusercontent.com/starpower65server-ui/Servidor-MC-con-webHUB-java-bedrock-y-java-bedrock-/main/setup-linux.sh | bash
+🪟 En Windows (1 solo comando en PowerShell como Administrador): irm https://raw.githubusercontent.com/starpower65server-ui/Servidor-MC-con-webHUB-java-bedrock-y-java-bedrock-/main/setup-windows.ps1 | iex
+
+
+
+================================================================================
           GUÍA COMPLETA Y FUNCIONAMIENTO — MINECRAFT SERVER MANAGER
 ================================================================================
 
