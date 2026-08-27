@@ -38,15 +38,11 @@ Paso 1: Abrir la consola en la carpeta del proyecto
   • Haz clic derecho en una zona vacía y selecciona "Abrir en Terminal" o 
     "Abrir PowerShell".
 
-Paso 2: Instalar dependencias (Solo la primera vez)
-  Escribe el siguiente comando y presiona Enter:
-    npm run install:all
-
-Paso 3: Encender el panel web
+Paso 2: Encender el panel web
   Escribe el siguiente comando y presiona Enter:
     npm run dev
 
-Paso 4: Abrir la web
+Paso 3: Abrir la web
   Abre tu navegador web (Chrome, Edge, Firefox, Brave...) e ingresa a:
     http://localhost:5173
 
